@@ -1,1 +1,1 @@
-db_password = 'ashu'
+db_password = 'key here'
